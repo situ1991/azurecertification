@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T11:41:30.176Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="XH5YP4CIe1uocpGv5_rm" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-17T11:44:10.985Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="QgOJqu-2ltYRJjWYl9WZ" version="15.5.4" type="github">
   <diagram id="MQ5M_GaUPifxGrJRHm8z" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="979" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TlG5xoIVKaXOhztmXkRV-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" parent="1" vertex="1">
-          <mxGeometry x="250" y="239.87" width="74" height="60.13" as="geometry" />
+          <mxGeometry x="259" y="231.87" width="74" height="60.13" as="geometry" />
         </mxCell>
         <mxCell id="TlG5xoIVKaXOhztmXkRV-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Table.svg;" parent="1" vertex="1">
-          <mxGeometry x="410" y="239.87" width="64" height="52" as="geometry" />
+          <mxGeometry x="435" y="228" width="77.54" height="63" as="geometry" />
         </mxCell>
         <mxCell id="TlG5xoIVKaXOhztmXkRV-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" parent="1" vertex="1">
-          <mxGeometry x="380" y="30" width="120" height="96" as="geometry" />
+          <mxGeometry x="402" y="-18" width="120" height="96" as="geometry" />
         </mxCell>
         <mxCell id="TlG5xoIVKaXOhztmXkRV-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Storage_Azure_Files.svg;" parent="1" vertex="1">
-          <mxGeometry x="600" y="240" width="64" height="52" as="geometry" />
+          <mxGeometry x="626" y="230.9" width="76.4" height="62.07" as="geometry" />
         </mxCell>
         <mxCell id="TlG5xoIVKaXOhztmXkRV-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" parent="1" vertex="1">
-          <mxGeometry x="166" y="10" width="68" height="64" as="geometry" />
+          <mxGeometry x="167" y="3" width="68" height="64" as="geometry" />
         </mxCell>
         <mxCell id="TlG5xoIVKaXOhztmXkRV-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Blob_Block.svg;" parent="1" vertex="1">
           <mxGeometry x="70" y="239.87" width="75.16" height="60.13" as="geometry" />
